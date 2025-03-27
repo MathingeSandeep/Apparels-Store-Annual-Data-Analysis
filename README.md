@@ -10,3 +10,6 @@ This project analyzes the annual sales and performance of an apparel store using
 -	Top three States are Maharashtra, Karnataka and Uttar Pradesh.
 -	Adult age group is more contributing.
 -	Amazon, Myntra and Flipkart are max contributing channels (approx.80%).
+## Dashboard
+![Apparels Store Annual Dashboard](https://github.com/user-attachments/assets/385084dc-aad6-4d11-b853-52ff4c6c6217)
+
